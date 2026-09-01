@@ -7,7 +7,7 @@ Data Engineer | Data Reliability Engineer | Cloud Data Platforms
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&width=600&lines=Data+Engineer;Healthcare+Data+Reliability;Azure+%7C+Snowflake+%7C+Databricks;Building+Reliable+Data+Systems">
 
 
-## 🚀 What I Work On
+## About me
 </p>
 I am a Data Engineer focused on building reliable cloud data systems.
 
