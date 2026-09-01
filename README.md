@@ -12,7 +12,7 @@ Data Engineer | Data Reliability Engineer | Cloud Data Platforms
 I am a Data Engineer focused on building reliable cloud data systems.
 
 My work involves designing and supporting ETL/ELT pipelines, improving data quality, investigating data issues, and helping teams trust the data they use.
-
+</p>
 I currently work with healthcare data platforms using technologies including Azure Data Factory, Snowflake, Databricks, Apache Spark, SQL Server, Mage AI, Python, and SQL.
 
 ## 🚀 What I Work On
